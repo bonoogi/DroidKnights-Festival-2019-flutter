@@ -2,13 +2,14 @@ class Strings {
 
   static const String DROID_KNIGHTS = "DroidKnights";
   static const String IMAGES_DK_PROFILE = "assets/images/dk_profile.png";
+  static const String IMAGES_DK_IOS_PROFILE = "assets/images/dk19_ios_appicon.png";
 
   // FONT
   static const String FONT_FAMILY_ROBOTO = "Roboto";
   static const String FONT_DUNG_GEUN_MO = "DungGeunMo";
 
   // INFO TAB
-  static const String INFO_TAB = "Infomation";
+  static const String INFO_TAB = "Information";
   static const String INFO_TAB_MAKER = "coex";
   static const String INFO_TAB_MOVE_HOMEPAGE = "홈페이지로 이동";
   static const String INFO_TAB_URL_DROID_KNIGHTS = "https://droidknights.github.io/2019/";
